@@ -1,0 +1,11 @@
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\ch_3_hw_p4\bin\Debug\ch_3_hw_p4.exe.config
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\ch_3_hw_p4\bin\Debug\ch_3_hw_p4.exe
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\ch_3_hw_p4\bin\Debug\ch_3_hw_p4.pdb
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\ch_3_hw_p4\bin\Debug\ch_3_hw_p4.xml
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\ch_3_hw_p4\obj\Debug\ch_3_hw_p4.vbprojAssemblyReference.cache
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\ch_3_hw_p4\obj\Debug\ch_3_hw_p4.Form1.resources
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\ch_3_hw_p4\obj\Debug\ch_3_hw_p4.Resources.resources
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\ch_3_hw_p4\obj\Debug\ch_3_hw_p4.vbproj.GenerateResource.cache
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\ch_3_hw_p4\obj\Debug\ch_3_hw_p4.exe
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\ch_3_hw_p4\obj\Debug\ch_3_hw_p4.xml
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\ch_3_hw_p4\obj\Debug\ch_3_hw_p4.pdb
